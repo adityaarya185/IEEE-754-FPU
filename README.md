@@ -7,11 +7,7 @@ This project implements a Floating Point Unit (FPU) based on the IEEE 754 standa
 - [Overview](#overview)
 - [Modules](#modules)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testbench](#testbench)
-- [Contributing](#contributing)
-- [License](#license)
+- [Results](#results)
 
 ## Overview
 
